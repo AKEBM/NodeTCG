@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+
+    
+}
+body{
+    
+    width: 100vw;
+    height:100vh;
+    
+    
+    
+    
+    
+    z-index: -3;
+    opacity: 0.9;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    
+}
+.main{
+    z-index: 11;
+}
+
+img{
+    opacity: 1;
+}
+button{
+    border-radius: 15px;
+    border: 1px solid rgb(149, 149, 237);
+}
+#change_view{
+    width: 7vw;
+    height: 4.5vw;
+    
+    
+    position: absolute;
+    bottom: 10vh;
+    left:8vw;
+    z-index: 3;
+}
+#menu_button{
+    width: 3vw;
+	height:3vw;
+    position: absolute;
+    top: 2vh;
+    right:2vw;
+    z-index: 10;
+}
+#move{
+    width: 6vw;
+    
+    position: absolute;
+    bottom: 10vh;
+    right:8vw;
+    z-index: 3;
+}
+#left{
+    width: 6vw;
+    
+    position: absolute;
+    bottom: 30vh;
+    left:4vw;
+    z-index: 11;
+}
+#right{
+    width: 6vw;
+    
+    position: absolute;
+    bottom: 30vh;
+    right:1vw;
+    z-index: 11;
+}
+
+
+
+
+.menu{
+    width: 40vw;
+    position: absolute;
+    height: 100vh;
+    background-color: white;
+    left:0;
+    border-radius: 4%;
+
+}
+
+
+
+
+
