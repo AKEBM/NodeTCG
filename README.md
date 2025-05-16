@@ -17,5 +17,5 @@ Game :
 - The game is fully synced if you open two webpages at the same time, and if you close the tab the game is automatically saved thanks to the "commands.txt" file that records every move that was played.
 
 Example in action :
-<a href="https://drive.google.com/uc?export=view&id=15SpGc86eiNiitlStQItwmAVwaaGBqRD5"><img src="https://drive.google.com/uc?export=view&id=15SpGc86eiNiitlStQItwmAVwaaGBqRD5" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+[<a href="https://drive.google.com/uc?export=view&id=15SpGc86eiNiitlStQItwmAVwaaGBqRD5"><img src="https://drive.google.com/uc?export=view&id=15SpGc86eiNiitlStQItwmAVwaaGBqRD5" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />](https://drive.google.com/file/d/15SpGc86eiNiitlStQItwmAVwaaGBqRD5/view)
 
