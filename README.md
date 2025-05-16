@@ -15,3 +15,7 @@ Game :
 - The switch in the bottom right can be used to alternate between 2 modes : 1) Look at Card 2) Move card
 - In the top right menu, you can select a current player and this allows you to use ethe button to see your specific field
 - The game is fully synced if you open two webpages at the same time, and if you close the tab the game is automatically saved thanks to the "commands.txt" file that records every move that was played.
+
+Example in action :
+<a href="https://drive.google.com/uc?export=view&id=15SpGc86eiNiitlStQItwmAVwaaGBqRD5"><img src="https://drive.google.com/uc?export=view&id=15SpGc86eiNiitlStQItwmAVwaaGBqRD5" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
